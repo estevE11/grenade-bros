@@ -1,0 +1,22 @@
+# Zig build directories
+zig-cache/
+zig-out/
+.zig-cache/
+.zig-out/
+
+# Binaries and object files
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# OS / Editor / Tooling artifacts
+.DS_Store
+*.swp
+*.tmp
+
+# Optional: If you use an IDE or editor generating project files
+.vscode/
+.idea/
